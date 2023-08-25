@@ -9,6 +9,7 @@ function App() {
       <button onClick={(e)=>{
         setCount(count+1)
       }}>+1</button>
+      <p>scor32k</p>
     </div>
   );
 }
